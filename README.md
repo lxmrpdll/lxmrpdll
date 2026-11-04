@@ -1,7 +1,7 @@
-# lxmrpdll
+# Alejandro Mora
 ==================
 
-PERFIL EN CONSTRUCION !!!
+Ex-estudiante del ITT
 
 <!--
 **lxmrpdll/lxmrpdll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
